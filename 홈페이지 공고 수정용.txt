@@ -9,5 +9,9 @@
 		<a href="http://pf.kakao.com/_xdtDGn" style="flex: 1 1 45%; max-width: 143px;" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jelogistics/homepage@main/hiring/basics/kakaotalk.png" alt="카카오톡" style="width: 100%; height: auto;" class="fr-fic fr-dii"></a></div>
 	<div style="margin: 0 0 20px 0;">
 		<a href="https://www.youtube.com/@jecoupang" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jelogistics/homepage@main/hiring/basics/youtube.png" alt="유튜브" style="width: 100%; max-width: 225px; height: auto;" class="fr-fic fr-dib"></a></div>
+	<div style="margin: 0 0 20px 0;">
+		<img src="https://cdn.jsdelivr.net/gh/jelogistics/homepage@main/hiring/basics/awards.jpg" alt="상장" style="width: 100%; max-width: 225px; height: auto;" class="fr-fic fr-dib"></a></div>
+	<div style="margin: 0 0 20px 0;">
+		<img src="https://cdn.jsdelivr.net/gh/jelogistics/homepage@main/hiring/basics/trophy.jpg" alt="트로피" style="width: 100%; max-width: 225px; height: auto;" class="fr-fic fr-dib"></a></div>
 	<div>
 		<a href="tel:07088570008"><img src="https://cdn.jsdelivr.net/gh/jelogistics/homepage@main/hiring/basics/tel.jpg" alt="전화 문의" style="width: 100%; max-width: 450px; height: auto;" class="fr-fic fr-dib"></a></div></div>
