@@ -1,7 +1,8 @@
 <div style="max-width: 900px; margin: 0 auto; text-align: center; font-family: Arial, sans-serif;">
 	<div style="margin: 0 0 24px 0;"><img src="https://cdn.jsdelivr.net/gh/jelogistics/homepage@main/hiring/basics/JE_logo_secondary.png" alt="JE Logistics Logo" style="max-width: 280px; width: 100%; height: auto;" class="fr-fic fr-dib"></div>
-	<div style="margin: 0 0 24px 0;"><img src="https://cdn.jsdelivr.net/gh/jelogistics/homepage@main/hiring/contents/backup_hiring.jpg" alt="채용 공고" style="width: 100%; max-width: 600px; height: auto;" class="fr-fic fr-dib"></div>
-	<div style="margin: 0 0 20px 0;"><img src="https://cdn.jsdelivr.net/gh/jelogistics/homepage@main/hiring/basics/comments.jpeg" alt="코멘트" style="width: 100%; max-width: 450px; height: auto;" class="fr-fic fr-dib"></div>
+	<div style="margin: 0 0 20px 0;"><img class="fr-fic fr-dii" src="https://cdn.imweb.me/upload/S202602090e09b26bc4d91/c08e3c7ca86d4.jpg" alt="채용완료.jpg">
+		<br>
+	</div>
 	<div style="margin: 0 0 20px 0;">
 		<a href="https://www.jelogistics.co.kr/contact_us" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jelogistics/homepage@main/hiring/basics/contact_us2.jpg" alt="간편지원하기" style="width: 100%; max-width: 450px; height: auto;" class="fr-fic fr-dib"></a></div>
 	<div style="display: flex; gap: 10px; justify-content: center; margin: 0 0 20px 0; flex-wrap: wrap;">
