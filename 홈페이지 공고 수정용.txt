@@ -3,14 +3,14 @@
 	<div style="margin: 0 0 24px 0;"><img src="https://cdn.jsdelivr.net/gh/jelogistics/homepage@main/hiring/contents/양주3캠프_주간_창동.jpg" alt="채용 공고" style="width: 100%; max-width: 600px; height: auto;" class="fr-fic fr-dib"></div>
 	<div style="margin: 0 0 20px 0;"><img src="https://cdn.jsdelivr.net/gh/jelogistics/homepage@main/hiring/basics/comments.jpeg" alt="코멘트" style="width: 100%; max-width: 450px; height: auto;" class="fr-fic fr-dib"></div>
 	<div style="margin: 0 0 20px 0;">
-		<a href="https://www.jelogistics.co.kr/contact_us" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jelogistics/homepage@main/hiring/basics/contact_us2.jpg" alt="간편지원하기" style="width: 100%; max-width: 450px; height: auto;" class="fr-fic fr-dib"></a></div>
+		<a href="https://www.jelogistics.co.kr/contact_us" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jelogistics/homepage@main/hiring/basics/contact_us3.jpg" alt="간편지원하기" style="width: 100%; max-width: 450px; height: auto;" class="fr-fic fr-dib"></a></div>
 	<div style="display: flex; gap: 10px; justify-content: center; margin: 0 0 20px 0; flex-wrap: wrap;">
 		<a href="https://blog.naver.com/coupangtop" style="flex: 1 1 45%; max-width: 143px;" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jelogistics/homepage@main/hiring/basics/blog.jpg" alt="블로그" style="width: 100%; height: auto;" class="fr-fic fr-dii"></a>
 		<a href="http://pf.kakao.com/_xdtDGn" style="flex: 1 1 45%; max-width: 143px;" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jelogistics/homepage@main/hiring/basics/kakaotalk.png" alt="카카오톡" style="width: 100%; height: auto;" class="fr-fic fr-dii"></a></div>
 	<div style="margin: 0 0 20px 0;">
 		<a href="https://www.youtube.com/@jecoupang" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jelogistics/homepage@main/hiring/basics/youtube.png" alt="유튜브" style="width: 100%; max-width: 225px; height: auto;" class="fr-fic fr-dib"></a></div>
 	<div style="margin: 0 0 20px 0;">
-		<img src="https://cdn.jsdelivr.net/gh/jelogistics/homepage@main/hiring/basics/awards2.jpg" alt="상장" style="width: 100%; max-width: 450px; height: auto;" class="fr-fic fr-dib"></div>
+		<img src="https://cdn.jsdelivr.net/gh/jelogistics/homepage@main/hiring/basics/awards3.jpg" alt="상장" style="width: 100%; max-width: 450px; height: auto;" class="fr-fic fr-dib"></div>
 	<div style="margin: 0 0 20px 0;">
 		<img src="https://cdn.jsdelivr.net/gh/jelogistics/homepage@main/hiring/basics/trophy2.jpg" alt="트로피" style="width: 100%; max-width: 225px; height: auto;" class="fr-fic fr-dib"></div>
 	<div>
